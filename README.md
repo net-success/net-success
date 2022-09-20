@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">fullstack web-developer from Germany</h3>
 
-- 💬 Ask me about **vue, nuxt, laravel, codeigniter, javascript, php, html, css, mysql**
+- 💬 Ask me about **vue, nuxt, laravel, codeigniter, javascript, php, html, css, mysql, ...**
 
 - 📫 How to reach me **mail@net-success.de**
 
