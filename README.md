@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">full-stack web developer from germany</h3>
+<h3 align="center">full-stack web developer from Germany</h3>
 
 - 💬 Ask me about **vue, nuxt, laravel, codeigniter, javascript, php, html, css, mysql, ...**
 
