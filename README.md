@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">Web developer from Germany</h3>
+<h3 align="center">Webdeveloper from Germany</h3>
 
 - 💬 Ask me about **vue, nuxt, laravel, codeigniter, javascript, php, html, css, mysql, ...**
 
